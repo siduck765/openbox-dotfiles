@@ -1,0 +1,13 @@
+
+# wallpaper
+
+#nitrogen --restore &
+feh --bg-fill ~/Pictures/wallpapers\ /ocean.jpg &
+xrdb merge ~/Public/xresources/ocean/.Xresources &
+
+/home/sid/./masood.. openbox
+
+
+#dock
+tint2 -c /home/sid/Public/top/tint2rc &
+plank &
