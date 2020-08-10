@@ -1,0 +1,2 @@
+# openbox-dotfiles for my post here https://www.reddit.com/r/unixporn/comments/i6n7zn/openbox_my_first_post_here/?utm_source=share&utm_medium=web2x
+
